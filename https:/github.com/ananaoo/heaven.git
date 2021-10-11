@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+<head>
+          <meta charset="utf-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sofia">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Tangerine">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Pacifico">
+       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" type="text/css" href="heaven2.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <title>HEAVEN</title>
+</head>
+<body>
+
+<div class="header">
+  <h1>Heaven</h1>
+</div>
+       <ul><div style="font-family:Pacifico;">
+ <li class="dropdown"><a href="javascript:void(0)" class="dropbtn">Recipes</a>
+           <div class="dropdown-content">
+      <a href="file:///C:/Program%20Files%20(x86)/Brackets/samples/root/Getting%20Started/vegetarian.html">Vegetarian</a>
+      <a href="#">Non-Vegetarian</a>
+      <a href="#">Vegan</a>
+    </div>
+           </li>
+<li><a href="#ingredients">Ingredients</a></li>
+  <li class="dropdown">
+    <a href="javascript:void(0)" class="dropbtn">Cuisine</a>
+    <div class="dropdown-content">
+      <a href="file:///C:/Program%20Files%20(x86)/Brackets/samples/root/Getting%20Started/chinese.html">Chinese</a>
+      <a href="file:///C:/Program%20Files%20(x86)/Brackets/samples/root/Getting%20Started/Italian.html">Italian</a>
+      <a href="#">French</a>
+      <a href="#">Indian</a>
+      <a href="#">Korean</a>
+      <a href="#">Thai</a>
+    </div>
+  </li>
+<li class="material-icons" style="float:right"><a href="#">info</a></li>
+<li class="material-icons" style="float:right"><a href="#">favorite</a></li>  
+<li class="material-icons" style="float:right"><a href="#">search</a></li>
+<li class="material-icons" style="float:right"><a href="file:///C:/Program%20Files%20(x86)/Brackets/samples/root/Getting%20Started/heaven2.html">home</a></li>
+</div>
+</ul>
+
+<div class="row">
+  <div class="leftcolumn">
+    <div class="card">
+        <div style="font-family:Pacifico;"><h1>Falafel</h1></div> 
+      <h5>A traditional Middle Easten dish, August 21, 2021</h5>
+      <a href="https://www.indianhealthyrecipes.com/falafel-recipe-chickpea-falafel/" target="_blank">
+      <img src="C:\Users\user\Downloads\falafel-4544137_1280.jpg" alt="falafel image" width="968" height="642" title="Click to check out falafel recipe"/></a>
+      <p> Falafel is a traditional Middle Eastern food, commonly served in a pita.</p>
+      <a href="https://www.indianhealthyrecipes.com/falafel-recipe-chickpea-falafel" targe="_blank">Click here</a> to get a detailed step by step photo guide on how to make these healthy and delicious chickpea falafel at home.
+      <p>If you are a vegan then trust me, this recipe is a must try. Share it with your friends if you like this.</p>
+    </div>
+    <div class="card">
+      <div style="font-family:Pacifico;"><h1>Brownie</h1></div>
+      <h5>Easy fudgy brownies, Aug 21, 2021</h5>
+      <a href="https://www.inspiredtaste.net/24412/cocoa-brownies-recipe/" title="Click to check out Brownie recipe" target="_blank">
+      <img src="C:\Users\user\Downloads\brownie-548591_1280.jpg" alt="brownie image" width="968" height="642"/></a>
+      <p> They are rich, fudgy in the middle, and made completely from scratch. These brownies are so much better than the box, and I bet you have what you need to make them already sitting in your kitchen.</p>
+      <a href="https://www.inspiredtaste.net/24412/cocoa-brownies-recipe/" targe="_blank">Click here</a> to get the recipe of these mouth watering heaven on a plate.
+    
+    </div>
+  </div>
+  <div class="rightcolumn">
+    <div class="card">
+      <div style="font-family:Pacifico; text-align: center;">
+          <h2>About Me</h2></div>
+      <img src="C:\Users\user\Downloads\PicsArt_08-22-12.25.52.png" alt="my image" width="100" height="100" class="center"/>
+      <p>Holla! This is Ana. I love programming, web-d but most importantly i love food. This is my effort in making you fall for cooking with simple and easy recipes from wonderful cooks.</p>
+    </div>
+    <div class="card">
+      <div style="font-family:Pacifico; text-align: center;">
+          <h3>Popular Post</h3></div>
+        <div class="container">
+      <a href="https://www.inspiredtaste.net/24593/essential-pancake-recipe/" title="Go to Pancake recipe" target="_blank">
+      <img src="C:\Users\user\Downloads\pancakes-2291908_640.jpg" alt="pancake image" width="270" height="170" id="pc"/></a>   
+       <div class="centered" style="font-family:Pacifico; font-size: 25px;">Pancakes</div>
+</div>
+   <div class="container">
+      <a href="https://www.thespruceeats.com/how-to-make-cappuccinos-766116" title="Go to cappuccino recipe" target="_blank">
+      <img src="C:\Users\user\Downloads\beverage-1869598_640.jpg" alt="cappuccino image" width="270" height="170"/></a>   
+       <div class="centered" style="font-family:Pacifico; font-size: 25px;">Cappuccino</div>
+</div>     
+  <div class="container">
+      <a href="https://www.indianhealthyrecipes.com/chicken-tikka-in-oven//" title="Go to chicken tikka recipe" target="_blank">
+      <img src="C:\Users\user\Downloads\tandoori-3856045_640.jpg" alt="chicken tikka image" width="270" height="170" id="pc"/></a>   
+       <div class="centered" style="font-family:Pacifico; font-size: 25px;">Chicken Tikka</div>
+</div>    </div>
+      
+      
+    <div class="card">
+      <div style="font-family:Pacifico; text-align: center;">
+          <h3>Follow Me</h3></div>
+        <div style="text-align:center;">
+        <a href="https://twitter.com/login?lang=en" class="fa fa-twitter" target="_blank"></a>
+        <a href="https://www.youtube.com/" class="fa fa-youtube" target="_blank"></a>
+        <a href="https://accounts.snapchat.com/accounts/login?continue=https%3A%2F%2Faccounts.snapchat.com%2Faccounts%2Fwelcome" class="fa fa-snapchat-ghost" target="_blank"></a>
+        </div>
+    </div>
+  </div>
+</div>
+
+<div class="footer">
+<a href="file:///C:/Program%20Files%20(x86)/Brackets/samples/root/Getting%20Started/contactus.html" target="_blank"><h2>Contact us</h2></a>
+<a href="mailto:hege@example.com">heavenfood@example.com</a>
+<address>JSS Academy of Technical Education, Noida</address>
+</div>
+
+</body>
+</html>
